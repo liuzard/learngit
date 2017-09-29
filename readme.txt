@@ -9,5 +9,6 @@ git ia a great software
 
 add a new line
 
-git track changes
+git track changes of files
+
 
