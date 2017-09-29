@@ -7,3 +7,5 @@ note ready to changed
 
 git ia a great software
 
+add a new line
+
