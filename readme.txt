@@ -14,3 +14,5 @@ git track changes of files
 Git creat branch quickly.
 
 Git upload a branch quickly.
+
+Creating a branch is quick & simple.
