@@ -16,3 +16,5 @@ Git creat branch quickly.
 Git upload a branch quickly.
 
 Creating a branch is quick and simple.
+
+git is a good version control system.
