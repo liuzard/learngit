@@ -16,5 +16,3 @@ Git creat branch quickly.
 Git upload a branch quickly.
 
 Creating a branch is quick and simple.
-
-Creating a branch is quick & simple & easy.
